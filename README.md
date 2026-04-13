@@ -1,5 +1,7 @@
 # 💫 About Me:
-My name is Pramod Lavate, a final-year Bachelor of Technology in Computer Science student at the Department of Technology, Kolhapur , currently maintaining a CGPA of 6.52 with an expected graduation in 2025. To complement my academic background, I am pursuing a Java Full Stack Development course at QSPIDER and have earned professional certifications in Python Fundamentals from 360DigiTMG and NASSCOM. My technical toolkit includes proficiency in HTML, CSS, JavaScript, SQL, and Git , which I have utilized to build practical projects such as a real-time Weather App integrated with the OpenWeatherMap API and a 2D Super Hero Adventure Game featuring complex collision detection and animations. I am a collaborative problem-solver with strong communication skills and hands-on experience using tools like VS Code and IntelliJ IDEA to develop responsive, user-friendly applications
+My name is Pramod Lavate,graduated in 2025 in Bachelor of Technology in Computer Science student at the Department of Technology, Kolhapur . I am an aspiring Software Developer with a strong foundation in Java and both frontend and backend web technologies. I have hands-on experience in building responsive and user-friendly applications using HTML, CSS, JavaScript, along with backend development using Java technologies.
+
+I have worked with JDBC, Servlets, JSP, Hibernate, and Spring Core, which helps me understand the complete flow of web application development from database to UI. I enjoy developing real-world projects, writing clean and efficient code, and continuously learning new technologies.tions
 
 
 ## 🌐 Socials:
